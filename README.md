@@ -1,4 +1,4 @@
-# zadanie Rekrutacyjne
+# Zadanie rekrutacyjne
 *How to:*
 ```
 npm i
